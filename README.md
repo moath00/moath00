@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Eng.%Moath%Hjjawi&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Moath%20Hjjawi&fontAlign=30&fontSize=30&textBg=true&desc=CSE%20%27Engineer%27%20|%20QA&descAlign=60&descAlignY=50)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
