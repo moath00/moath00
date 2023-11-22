@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning quality assurance to professional<br>🎯 Goals: Be one of greatest talents in Palestine <br>👨🏻‍💻 I’m looking to collaborate on automation testing <br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning quality assurance to professional<br>🎯 Goals: Be one of greatest talents in Palestine <br>👨🏻‍💻 I’m looking to collaborate on automation testing </p>
+<!-- <br>🎲 Fun fact: -->
 
 ###
 
