@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Eng.%Moath%Hjjawi&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -145,4 +145,4 @@
 </div>
 
 ###
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient)
